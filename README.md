@@ -2,7 +2,7 @@
 
 # 👋 Hello World!
 
-<img src="me.png" alt="Minha foto" width="350"/>
+<img src="me.png" alt="Minha foto" width="450"/>
 
 Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
 
@@ -15,7 +15,6 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 ## 👩‍💻 Sobre mim
 
 </div>
-
 
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
@@ -42,6 +41,25 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+</div>
+
+---
+
+<div align="center"> 
+
+## 📈 Minhas Contribuições Recentes
+
+</div>
+
+<div align="center">
+
+![Arii19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=radical)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=radical)
+
+<!-- Snake animation -->
+![snake gif](https://github.com/Arii19/Arii19/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
