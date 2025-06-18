@@ -58,9 +58,6 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=radical)
 
-<!-- Snake animation -->
-![snake gif](https://github.com/Arii19/Arii19/blob/output/github-contribution-grid-snake.svg)
-
 </div>
 
 ---
