@@ -26,8 +26,6 @@ Sou apaixonado(a) por tecnologia, soluções inteligentes e por aprender algo no
 
 ---
 
-<!-- Exemplo de logos de linguagens no README -->
-
 ## Tecnologias
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
