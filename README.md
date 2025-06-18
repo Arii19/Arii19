@@ -9,7 +9,8 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 </div>
 
 ---
-
+<div align="center">
+  
 ## 💡 Conhecimentos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
