@@ -7,7 +7,6 @@
 Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
 
 </div>
----
 
 <div align="center"> 
 
@@ -21,7 +20,7 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 - 💼 Área de atuação: Ciência de dados
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
 
----
+
 <div align="center"> 
 
 ## 💡 Conhecimentos
@@ -42,7 +41,7 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 </div>
 
----
+
 
 <div align="center"> 
 
@@ -51,7 +50,8 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 _"A prática constante é o caminho para a excelência. Code, break, learn, repeat."_
 
 </div>
----
+
+
 
 <div align="center"> 
 
