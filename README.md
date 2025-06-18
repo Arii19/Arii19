@@ -2,7 +2,7 @@
 
 # 👋 Hello World!
 
-<img src="me.png" alt="Minha foto" width="150"/>
+<img src="me.png" alt="Minha foto" width="350"/>
 
 </div>
 
