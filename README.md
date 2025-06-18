@@ -14,13 +14,15 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 ## 👩‍💻 Sobre mim
 
+</div>
+
+
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
 - 🌱 Atualmente estudando: Python  
 - 📸 Área de atuação: Ciência de dados  
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
 
-</div>
 ---
 
 <div align="center">
