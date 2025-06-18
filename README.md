@@ -10,22 +10,6 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 ---
 
-<div align="center">
-
-## 👩‍💻 Sobre mim
-
-</div>
-
-Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
-
-- 🌱 Atualmente estudando: Python  
-- 📸 Área de atuação: Ciência de dados  
-- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
-
----
-
-<div align="center">
-
 ## 💡 Conhecimentos
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -44,6 +28,22 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 </div>
 
 ---
+
+<div align="center">
+
+## 👩‍💻 Sobre mim
+
+</div>
+
+Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
+
+- 🌱 Atualmente estudando: Python  
+- 📸 Área de atuação: Ciência de dados  
+- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
+
+---
+
+<div align="center">
 
 <div align="center"> 
 
