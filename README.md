@@ -2,28 +2,25 @@
 
 # 👋 Hello World!
 
-
+</div>
 
 Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
 
-</div>
+---
 
-<div align="center"> 
-
-## 👨🏻‍🚀 Sobre mim 👨🏻‍🚀
-
-</div>
+## 👩‍💻 Sobre mim
 
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
-- 🌱 Atualmente estudando: Python
-- 💼 Área de atuação: Ciência de dados
+- 🌱 Atualmente estudando: Python  
+- 📸 Área de atuação: Ciência de dados  
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
 
-
-<div align="center"> 
+---
 
 ## 💡 Conhecimentos
+
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -41,17 +38,11 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 </div>
 
+---
 
-
-<div align="center"> 
-
-## 👨🏻‍💻 Dev nosso de cada dia 👨🏻‍💻
+## 👩‍💻 Dev nosso de cada dia 👩🏻‍💻
 
 _"A prática constante é o caminho para a excelência. Code, break, learn, repeat."_
-
-</div>
-
-
 
 <div align="center"> 
 
