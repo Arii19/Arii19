@@ -2,11 +2,18 @@
 
 # 👋 Hello World!
 
+
+
 Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
 
+</div>
 ---
 
+<div align="center"> 
+
 ## 👨🏻‍🚀 Sobre mim 👨🏻‍🚀
+
+</div>
 
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
@@ -15,6 +22,7 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
 
 ---
+<div align="center"> 
 
 ## 💡 Conhecimentos
 
@@ -32,11 +40,20 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
+</div>
+
+---
+
+<div align="center"> 
+
 ## 👨🏻‍💻 Dev nosso de cada dia 👨🏻‍💻
 
 _"A prática constante é o caminho para a excelência. Code, break, learn, repeat."_
 
+</div>
 ---
+
+<div align="center"> 
 
 ⭐ Obrigado por visitar meu perfil!  
 🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/ariane-rodrigues-2946851aa/) • [Salesforce](https://www.salesforce.com/trailblazer/aduarte40) • [Email](mailto:ariane19duarte@gmail.com)
