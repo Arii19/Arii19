@@ -2,6 +2,8 @@
 
 # 👋 Hello World!
 
+<img src="me.png" alt="Minha foto" width="150"/>
+
 </div>
 
 Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
