@@ -8,8 +8,8 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 Sou apaixonado(a) por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
-- 🌱 Atualmente estudando: [coloque aqui o que está aprendendo]
-- 💼 Área de atuação: [descreva aqui sua atuação: ex. dados, backend, mobile...]
+- 🌱 Atualmente estudando: Python
+- 💼 Área de atuação: Ciência de dados
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
 
 ---
@@ -22,16 +22,19 @@ Sou apaixonado(a) por tecnologia, soluções inteligentes e por aprender algo no
 - 🧠 Machine Learning • Data Science
 - 📊 Power BI • Pandas • Numpy
 - ☁️ Airflow • Azure • Graph API
+- ☁️ Salesforce
 
 ---
 
-## 🔥 Clique para ver mais detalhes de contribuições 🔥
+<!-- Exemplo de logos de linguagens no README -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Tecnologias
 
----
-
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 
 ## 👨🏻‍💻 Dev nosso de cada dia 👨🏻‍💻
 
