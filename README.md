@@ -1,18 +1,32 @@
 <div align="center">
 
-# 👋 Hello World!
+<h2 align="left">Olá 👋! Meu nome é Ariane</h2>
 
 <img src="me.png" alt="Minha foto" width="450"/>
 
-Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus projetos e minha jornada no universo da programação.
+Desenvolvedora ETL, comprometida a criar soluções modernas, funcionais e com propósito.  
+Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
 
 </div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arii19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arii19&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
+</div>
+
+<br clear="both">
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%A1+Conhecimentos+em%3A" alt="Typing SVG" />
 </p>
+
+<div align="left">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -32,44 +46,54 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 ---
 
 <div align="center"> 
-
-## 👩‍💻 Sobre mim
-
+<h2>👩‍💻 Sobre mim</h2>
 </div>
 
-Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
+Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias.  
+Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
 - 🌱 Atualmente estudando: Python  
-- 📸 Área de atuação: Ciência de dados  
-- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
+- 📊 Área de atuação: Ciência de Dados e Engenharia ETL  
+- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev  
 
 ---
-
-## 📈 Minhas Contribuições Recentes
-
-</div>
 
 <div align="center">
 
-![Arii19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=radical)
+## 📈 Minhas Contribuições Recentes
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arii19&theme=dracula&hide_border=false" height="150" />
+<img src="https://github-profile-trophy.vercel.app/?username=Arii19&theme=dracula&no-frame=true&column=4" />
 
 </div>
 
 ---
 
 <div align="center"> 
-
-## 👩‍💻 Dev nosso de cada dia 👩🏻‍💻
+<h2>👩‍💻 Dev nosso de cada dia 👩🏻‍💻</h2>
 
 _"A prática constante é o caminho para a excelência. Code, break, learn, repeat."_
 
+⭐ Obrigada por visitar meu perfil!
+
+🔗 Conecte-se comigo:
+<br><br>
+<a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+</a>
+<a href="mailto:ariane19duarte@gmail.com">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+</a>
+<a href="https://www.salesforce.com/trailblazer/aduarte40" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Salesforce&logo=salesforce&label=&color=00A1E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="salesforce logo" />
+</a>
+
 </div>
 
-<div align="center"> 
+---
 
-⭐ Obrigado por visitar meu perfil!  
-🔗 Conecte-se comigo: [LinkedIn](https://www.linkedin.com/in/ariane-rodrigues-2946851aa/) • [Salesforce](https://www.salesforce.com/trailblazer/aduarte40) • [Email](mailto:ariane19duarte@gmail.com)
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 </div>
