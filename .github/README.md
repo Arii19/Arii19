@@ -2,8 +2,6 @@
 
 <h2 align="left">Olá 👋! Meu nome é Ariane</h2>
 
-<img src="me.png" alt="Minha foto" width="450"/>
-
 Desenvolvedora ETL, comprometida a criar soluções modernas, funcionais e com propósito.  
 Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
 
@@ -33,7 +31,6 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa�
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
