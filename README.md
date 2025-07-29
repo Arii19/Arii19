@@ -27,20 +27,20 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 <div align="center">
 
 ## 💡 Conhecimentos
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<img src=".github/workflows/airflow.gif" width="100">
+<img src=".github/workflows/python.svg" width="100">
+<img src=".github/workflows/sql.svg" width="100">
+<img src=".github/workflows/docker.svg" width="100">
+<img src=".github/workflows/github.svg" width="100">
+<img src=".github/workflows/html.gif" width="100">
+<img src=".github/workflows/html.gif" width="100">
+<img src=".github/workflows/css.gif" width="100">
+<img src=".github/workflows/bootstrap.webp" width="100">
+<img src=".github/workflows/react.gif" width="100">
+<img src=".github/workflows/api.gif" width="100">
+<img src=".github/workflows/java.gif" width="100">
+<img src=".github/workflows/wordpress.svg" width="100">
+<img src=".github/workflowsmarkdown.gif" width="100">
 
 </div>
 
