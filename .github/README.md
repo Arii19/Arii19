@@ -45,7 +45,7 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa�
 
 </div>
 
-<div align="center">
+<div align="left">
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias.  
 Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
@@ -54,6 +54,7 @@ Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev  
 
 ---
+</div>
 
 <div align="center">
 
