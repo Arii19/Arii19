@@ -60,7 +60,6 @@ Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
 ## 📈 Minhas Contribuições Recentes
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arii19&theme=dracula&hide_border=false" height="150" />
 <img src="https://github-profile-trophy.vercel.app/?username=Arii19&theme=dracula&no-frame=true&column=4" />
 
 </div>
