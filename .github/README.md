@@ -1,6 +1,6 @@
 <div align="center">
 
-<h2 align="left">Olá 👋! Meu nome é Ariane</h2>
+<h2 align="center">Olá👋! Meu nome é Ariane</h2>
 
 Desenvolvedora ETL, comprometida a criar soluções modernas, funcionais e com propósito.  
 Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
@@ -42,7 +42,8 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa�
 
 <div align="center"> 
 <h2>👩‍💻 Sobre mim</h2>
-</div>
+
+</div align="center">
 
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias.  
 Acredito no poder da comunidade e na importância de compartilhar conhecimento.
@@ -84,12 +85,3 @@ _"A prática constante é o caminho para a excelência. Code, break, learn, repe
 
 </div>
 
----
-
-<div align="center">
-
-## 🕹️ GitHub Snake - Pac-Man style 🟡
-
-<img src="https://raw.githubusercontent.com/Arii19/Arii19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-</div>
