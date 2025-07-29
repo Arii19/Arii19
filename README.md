@@ -10,19 +10,23 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 ---
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+<div align="center">
 
 ## 💡 Conhecimentos
 
-  <img src=".github/workflows/docker.svg" width="80">
-  <img src=".github/workflows/mysql.svg" width="80">
-  <img src=".github/workflows/html.gif" width="80">
-  <img src=".github/workflows/bootstrap.webp" width="80">
-  <img src=".github/workflows/react.gif" width="80">
-  <img src=".github/workflows/api.gif" width="80">
-  <img src=".github/workflows/java.gif" width="80">
-  <img src=".github/workflows/wordpress.svg" width="80">
-  <img src=".github/workflows/css.gif" width="80">
+<img src=".github/workflows/airflow.gif" width="70">
+<img src=".github/workflows/python.svg" width="70">
+<img src=".github/workflows/sql.svg" width="70">
+<img src=".github/workflows/docker.svg" width="70">
+<img src=".github/workflows/github.svg" width="70">
+<img src=".github/workflows/html.gif" width="70">
+<img src=".github/workflows/css.gif" width="70">
+<img src=".github/workflows/bootstrap.webp" width="70">
+<img src=".github/workflows/react.gif" width="70">
+<img src=".github/workflows/api.gif" width="70">
+<img src=".github/workflows/java.gif" width="70">
+<img src=".github/workflows/wordpress.svg" width="70">
+<img src=".github/workflowsmarkdown.gif" width="70">
 
 </div>
 
