@@ -10,8 +10,6 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 ---
 
-## 💡 Conhecimentos
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%A1+Conhecimentos+em%3A" alt="Typing SVG" />
 </p>
