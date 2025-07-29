@@ -43,8 +43,9 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa�
 <div align="center"> 
 <h2>👩‍💻 Sobre mim</h2>
 
-</div align="center">
+</div>
 
+<div align="center">
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias.  
 Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 
