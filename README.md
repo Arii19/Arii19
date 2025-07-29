@@ -9,20 +9,9 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 </div>
 
 ---
-
 <div align="center">
-
-## 👩‍💻 Sobre mim
-
-</div>
-
-Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
-
-- 🌱 Atualmente estudando: Python  
-- 📸 Área de atuação: Ciência de dados  
-- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
-
----
+  
+## 💡 Conhecimentos
 
 <div align="center">
 
@@ -48,6 +37,18 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 <div align="center"> 
 
+## 👩‍💻 Sobre mim
+
+</div>
+
+Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento.
+
+- 🌱 Atualmente estudando: Python  
+- 📸 Área de atuação: Ciência de dados  
+- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev
+
+---
+
 ## 📈 Minhas Contribuições Recentes
 
 </div>
@@ -57,9 +58,6 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 ![Arii19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=radical)
 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=radical)
-
-<!-- Snake animation -->
-![snake gif](https://github.com/Arii19/Arii19/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
