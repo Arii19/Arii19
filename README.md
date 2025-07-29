@@ -18,8 +18,6 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa√
 
 <br clear="both">
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
 ---
 
 <p align="center">
