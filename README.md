@@ -12,8 +12,8 @@ Transformo aprendizados em projetos reais ao longo da minha jornada na programa�
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arii19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="Gráfico de stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arii19&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Gráfico de linguagens" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arii19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arii19&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Langs" />
 </div>
 
 <br clear="both">
@@ -94,6 +94,8 @@ _"A prática constante é o caminho para a excelência. Code, break, learn, repe
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+## 🕹️ GitHub Snake - Pac-Man style 🟡
+
+<img src="https://raw.githubusercontent.com/Arii19/Arii19/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 </div>
