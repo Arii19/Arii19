@@ -10,23 +10,24 @@ Seja bem-vindo(a) ao meu perfil! Aqui você encontra um pouco sobre mim, meus pr
 
 ---
 
-<div align="center">
-
 ## 💡 Conhecimentos
 
-<img src=".github/workflows/airflow.gif" width="70">
-<img src=".github/workflows/python.svg" width="70">
-<img src=".github/workflows/sql.svg" width="70">
-<img src=".github/workflows/docker.svg" width="70">
-<img src=".github/workflows/github.svg" width="70">
-<img src=".github/workflows/html.gif" width="70">
-<img src=".github/workflows/css.gif" width="70">
-<img src=".github/workflows/bootstrap.webp" width="70">
-<img src=".github/workflows/react.gif" width="70">
-<img src=".github/workflows/api.gif" width="70">
-<img src=".github/workflows/java.gif" width="70">
-<img src=".github/workflows/wordpress.svg" width="70">
-<img src=".github/workflowsmarkdown.gif" width="70">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%A1+Conhecimentos+em%3A" alt="Typing SVG" />
+</p>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 </div>
 
