@@ -56,17 +56,6 @@ Acredito no poder da comunidade e na importância de compartilhar conhecimento.
 - 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev  
 
 ---
-</div>
-
-<div align="center">
-
-## 📈 Minhas Contribuições Recentes
-
-<img src="https://github-profile-trophy.vercel.app/?username=Arii19&theme=dracula&no-frame=true&column=4" />
-
-</div>
-
----
 
 <div align="center"> 
 <h2>👩‍💻 Dev nosso de cada dia 👩🏻‍💻</h2>
