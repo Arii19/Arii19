@@ -2,15 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Oi,%20eu%20sou%20a%20Ariane%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20ETL%20%7C%20Ci%C3%AAncia%20de%20Dados&descAlignY=52&descSize=16"/>
 
-<a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:ariane19duarte@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://github.com/Arii19">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+<a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ariane19duarte@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Arii19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 </div>
 
@@ -28,28 +22,28 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 ## 🛠️ Stack
 
-<div align="center">
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,md,bootstrap&theme=dark" />
-
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
-<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
-
-</div>
+<p align="center">
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/> <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
+</p>
 
 <br/>
 
 ## 📊 GitHub Stats
 
-<div align="center">
+<table align="center">
+<tr>
+<td><img width="420" src="https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
+<td><img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=tokyonight&hide_border=true"/></td>
+</tr>
+</table>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arii19&theme=tokyonight&hide_border=true"/>
-
-</div>
+</p>
 
 <br/>
 
