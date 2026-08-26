@@ -1,80 +1,64 @@
 <div align="center">
 
-<h2 align="center">Olá👋! Meu nome é Ariane</h2>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Oi,%20eu%20sou%20a%20Ariane%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20ETL%20%7C%20Ci%C3%AAncia%20de%20Dados&descAlignY=52&descSize=16"/>
 
-Desenvolvedora ETL, comprometida a criar soluções modernas, funcionais e com propósito.  
-Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
+<a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:ariane19duarte@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Arii19">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
----
+<br/>
+
+## 💡 Sobre mim
+
+Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento. Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
+
+- 🌱 **Atualmente estudando:** Python
+- 🗃️ **Área de atuação:** Ciência de Dados e Engenharia ETL
+- 🎯 **Objetivo:** Contribuir com projetos impactantes e continuar evoluindo como dev
+
+<br/>
+
+## 🛠️ Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arii19&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Arii19&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Langs" />
-</div>
 
-<br clear="both">
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,git,md,bootstrap&theme=dark" />
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=%F0%9F%92%A1+Conhecimentos+em%3A" alt="Typing SVG" />
-</p>
-
-<div align="left">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-333333?style=for-the-badge&logo=json&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FF0000?style=for-the-badge&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-000000?style=flat-square&logo=json&logoColor=white"/>
+<img src="https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white"/>
 
 </div>
 
----
+<br/>
 
-<div align="center"> 
-<h2>👩‍💻 Sobre mim</h2>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arii19&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-<div align="left">
-Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias.  
-Acredito no poder da comunidade e na importância de compartilhar conhecimento.
+<br/>
 
----
+<div align="center">
 
-- 🌱 Atualmente estudando: Python  
-- 📊 Área de atuação: Ciência de Dados e Engenharia ETL  
-- 🎯 Objetivo: Contribuir com projetos impactantes e continuar evoluindo como dev  
-
----
-
-<div align="center"> 
-<h2>👩‍💻 Dev nosso de cada dia 👩🏻‍💻</h2>
-
-_"A prática constante é o caminho para a excelência. Code, break, learn, repeat."_
+### "A prática constante é o caminho para a excelência. Code, break, learn, repeat." ✨
 
 ⭐ Obrigada por visitar meu perfil!
 
-🔗 Conecte-se comigo:
-<br><br>
-<a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</a>
-<a href="mailto:ariane19duarte@gmail.com">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-</a>
-<a href="https://www.salesforce.com/trailblazer/aduarte40" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Salesforce&logo=salesforce&label=&color=00A1E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="salesforce logo" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22D3EE,100:6366F1&height=100&section=footer"/>
 
 </div>
-
