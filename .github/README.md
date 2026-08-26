@@ -14,8 +14,8 @@
 
 Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo todos os dias. Acredito no poder da comunidade e na importância de compartilhar conhecimento. Transformo aprendizados em projetos reais ao longo da minha jornada na programação.
 
-- 🌱 **Atualmente estudando:** Python
-- 🗃️ **Área de atuação:** Ciência de Dados e Engenharia ETL
+- 🌱 **Atualmente estudando:** Python, APEX, Agentes de Inteligência Artificial
+- 🗃️ **Área de atuação:** Analise de Sistemas e Integração e Engenharia ETL
 - 🎯 **Objetivo:** Contribuir com projetos impactantes e continuar evoluindo como dev
 
 <br/>
