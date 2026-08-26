@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Oi,%20eu%20sou%20a%20Ariane%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Desenvolvedora%20ETL%20%7C%20Ci%C3%AAncia%20de%20Dados&descAlignY=52&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:22D3EE&height=200&section=header&text=Oi,%20eu%20sou%20a%20Ariane%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Analista%20de%20Sistemas%20e%20Integra%C3%A7%C3%A3o&descAlignY=52&descSize=16"/>
 
 <p>
 <a href="https://www.linkedin.com/in/ariane-rodrigues-2946851aa/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:ariane19duarte@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a> <a href="https://github.com/Arii19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
