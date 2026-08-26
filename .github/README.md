@@ -42,7 +42,7 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 </table>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arii19&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=Arii19&theme=tokyonight&hide_border=true"/>
 </p>
 
 <br/>
