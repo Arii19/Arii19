@@ -36,8 +36,8 @@ Sou apaixonada por tecnologia, soluções inteligentes e por aprender algo novo 
 
 <table align="center">
 <tr>
-<td><img width="420" src="https://github-readme-stats.vercel.app/api?username=Arii19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
-<td><img width="320" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=tokyonight&hide_border=true"/></td>
+<td><img width="420" src="https://github-readme-stats-ecru-eight-87.vercel.app/api?username=Arii19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/></td>
+<td><img width="320" src="https://github-readme-stats-ecru-eight-87.vercel.app/api/top-langs/?username=Arii19&layout=compact&theme=tokyonight&hide_border=true"/></td>
 </tr>
 </table>
 
